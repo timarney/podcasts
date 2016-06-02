@@ -1,89 +1,81 @@
-*Soft Skills Engineering*
-https://itunes.apple.com/us/podcast/soft-skills-engineering/id1091341048?mt=2 or http://feeds.feedburner.com/SoftSkillsEngineering
+## JavaScript
+- *SpaceDojo* - https://show.spacedojo.com
 
-*NashDev*
-http://nashdevcast.com/
+- *Mostly Node* - http://mostlynode.com/
 
-*Modern Web*
-http://www.modern-web.org/
+- *Reactive* - http://reactive.audio/
 
-*SpaceDojo*
-https://show.spacedojo.com
+- *Javascript Jabber* - http://javascriptjabber.com
 
-*Mostly Node*
-http://mostlynode.com/
+- *JavaScript Air* - http://javascriptair.com/
 
-*Reactive*
-http://reactive.audio/
+- *React Podcast* - http://reactpodcast.com
 
-*The SVG Immersion Podcast*
-http://svgimmersion.com/
+- *Full Stack Radio* - http://www.fullstackradio.com
 
-*Apply Filters*
-http://applyfilters.fm
+- *FiveJS* - https://fivejs.codeschool.com
 
-*Boagworld*
-https://boagworld.com
 
-*CTRL+CLICK CAST*
-http://ctrlclickcast.com
+## Engineering
+- *Soft Skills Engineering*
+    - http://feeds.feedburner.com/SoftSkillsEngineering
+    - https://itunes.apple.com/us/podcast/soft-skills-engineeringlink/id1091341048?mt=2
 
-*Dads In Development*
-http://www.dadsindev.com
+- *NashDev* - http://nashdevcast.com/
 
-*Giant Robots Smashing Into Other Giant Robots*
-http://giantrobots.fm
 
-*Javascript Jabber*
-http://javascriptjabber.com
 
-*JavaScript Air*
-http://javascriptair.com/
+## PHP / WordPress
+- *Apply Filters* - http://applyfilters.fm
 
-*Product People*
-http://productpeople.tv
+- Post Status - https://poststatus.com/
 
-*Responsive Design Podcast*
-http://responsivedesign.is/podcast
 
-*ShopTalk*
-http://shoptalkshow.com
 
-*The Changelog*
-http://5by5.tv/changelog
+## Interview Heavy
+- *The Changelog* - http://5by5.tv/changelog
 
-*The Non Breaking Space Show*
-http://goodstuff.fm/nbsp
+- *Product People* - http://productpeople.tv
 
-*The Web Platform Podcast*
-http://thewebplatform.libsyn.com
+- *ShopTalk* - http://shoptalkshow.com
 
-*React Podcast*
-http://reactpodcast.com
+- *The Web Ahead* - http://5by5.tv/webahead
 
-*Full Stack Radio*
-http://www.fullstackradio.com
+- *The Big Web Show* - http://5by5.tv/bigwebshow
 
-*The Web Ahead*
-http://5by5.tv/webahead
+- *The Non Breaking Space Show* - http://goodstuff.fm/nbsp
 
-*The Big Web Show*
-http://5by5.tv/bigwebshow
+- *Three Devs and a Maybe* - http://threedevsandamaybe.com
 
-*FiveJS*
-https://fivejs.codeschool.com
 
-*the path to PERFORMANCE*
-https://pathtoperf.com
 
-*Does Not Compute*
-http://spec.fm/podcasts/does-not-compute
+## Front-End
+- *The SVG Immersion Podcast* - http://svgimmersion.com/
 
-*Three Devs and a Maybe*
-http://threedevsandamaybe.com
+- *Responsive Design Podcast* - http://responsivedesign.is/podcast
 
-*The Development Hell Podcast*
-http://devhell.info
 
-*Security Now*
-https://twit.tv/shows/security-now
+
+## Security & Performance
+- *Security Now* - https://twit.tv/shows/security-now
+
+- *the path to PERFORMANCE* - https://pathtoperf.com
+
+
+
+## Broad / Business / Workflow
+- *Modern Web* - http://www.modern-web.org/
+
+- *Dads In Development* - http://www.dadsindev.com
+
+- *Giant Robots Smashing Into Other Giant Robots* - http://giantrobots.fm
+
+- *Boagworld* - https://boagworld.com
+
+- *CTRL+CLICK CAST* - http://ctrlclickcast.com
+
+- *The Development Hell Podcast* - http://devhell.info
+
+- *The Web Platform Podcast* - http://thewebplatform.libsyn.com
+
+- *Does Not Compute* - http://spec.fm/podcasts/does-not-compute
