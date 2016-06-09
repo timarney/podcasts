@@ -1,16 +1,17 @@
 ## JavaScript
 - *FiveJS* - https://fivejs.codeschool.com
 - *Full Stack Radio* - http://www.fullstackradio.com
-- *JavaScript Air* - http://javascriptair.com/
+- *JavaScript Air* - http://javascriptair.com
 - *Javascript Jabber* - http://javascriptjabber.com
-- *Mostly Node* - http://mostlynode.com/
+- *Mostly Node* - http://mostlynode.com
+- *React30* - https://react30.com
 - *React Podcast* - http://reactpodcast.com
-- *Reactive* - http://reactive.audio/
+- *Reactive* - http://reactive.audio
 - *SpaceDojo* - https://show.spacedojo.com
 
 
 ## Engineering
-- *NashDev* - http://nashdevcast.com/
+- *NashDev* - http://nashdevcast.com
 - *Soft Skills Engineering*
     - http://feeds.feedburner.com/SoftSkillsEngineering
     - https://itunes.apple.com/us/podcast/soft-skills-engineeringlink/id1091341048?mt=2
@@ -41,7 +42,7 @@
 - *the path to PERFORMANCE* - https://pathtoperf.com
 
 
-## Broad / Business / Workflow
+## Broad / Business / Workflow / Tech
 - *CTRL+CLICK CAST* - http://ctrlclickcast.com
 - *Boagworld* - https://boagworld.com
 - *Dads In Development* - http://www.dadsindev.com
