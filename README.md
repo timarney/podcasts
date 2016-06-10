@@ -47,6 +47,7 @@
 - *Boagworld* - https://boagworld.com
 - *Dads In Development* - http://www.dadsindev.com
 - *Does Not Compute* - http://spec.fm/podcasts/does-not-compute
+- *FreelanceFAQ* - http://www.freelancefaq.com
 - *Giant Robots Smashing Into Other Giant Robots* - http://giantrobots.fm
 - *Modern Web* - http://www.modern-web.org/
 - *The Development Hell Podcast* - http://devhell.info
