@@ -25,6 +25,7 @@
 ## Interview Heavy
 - *Product People* - http://productpeople.tv
 - *ShopTalk* - http://shoptalkshow.com
+- *Software Engineering Daily* - http://softwareengineeringdaily.com/
 - *The Big Web Show* - http://5by5.tv/bigwebshow
 - *The Changelog* - http://5by5.tv/changelog
 - *The Non Breaking Space Show* - http://goodstuff.fm/nbsp
@@ -35,6 +36,7 @@
 ## Front-End
 - *Responsive Design Podcast* - http://responsivedesign.is/podcast
 - *The SVG Immersion Podcast* - http://svgimmersion.com/
+- *Toolsday* - http://toolsday.io/
 
 
 ## Security & Performance
