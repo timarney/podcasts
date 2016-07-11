@@ -4,6 +4,7 @@
 - *JavaScript Air* - http://javascriptair.com
 - *Javascript Jabber* - http://javascriptjabber.com
 - *Mostly Node* - http://mostlynode.com
+- *NodeUp* - http://nodeup.com/
 - *React30* - https://react30.com
 - *React Podcast* - http://reactpodcast.com
 - *Reactive* - http://reactive.audio
@@ -25,7 +26,7 @@
 ## Interview Heavy
 - *Product People* - http://productpeople.tv
 - *ShopTalk* - http://shoptalkshow.com
-- *Software Engineering Daily* - http://softwareengineeringdaily.com/
+- *Software Engineering Daily* - http://softwareengineeringdaily.com
 - *The Big Web Show* - http://5by5.tv/bigwebshow
 - *The Changelog* - http://5by5.tv/changelog
 - *The Non Breaking Space Show* - http://goodstuff.fm/nbsp
@@ -35,7 +36,7 @@
 
 ## Front-End
 - *Responsive Design Podcast* - http://responsivedesign.is/podcast
-- *The SVG Immersion Podcast* - http://svgimmersion.com/
+- *The SVG Immersion Podcast* - http://svgimmersion.com
 - *Toolsday* - http://toolsday.io/
 
 
@@ -51,6 +52,6 @@
 - *Does Not Compute* - http://spec.fm/podcasts/does-not-compute
 - *FreelanceFAQ* - http://www.freelancefaq.com
 - *Giant Robots Smashing Into Other Giant Robots* - http://giantrobots.fm
-- *Modern Web* - http://www.modern-web.org/
+- *Modern Web* - http://www.modern-web.org
 - *The Development Hell Podcast* - http://devhell.info
 - *The Web Platform Podcast* - http://thewebplatform.libsyn.com
