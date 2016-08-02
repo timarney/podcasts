@@ -14,6 +14,7 @@
 
 
 ## Engineering
+- *Code Podcast* - https://soundcloud.com/podcastcode
 - *NashDev* - http://nashdevcast.com
 - *Soft Skills Engineering*
     - http://feeds.feedburner.com/SoftSkillsEngineering
