@@ -1,5 +1,7 @@
 ## JavaScript
+- *Career.js* - http://careerjs.com/
 - *FiveJS* - https://fivejs.codeschool.com
+- *Front End Happy Hour* - http://frontendhappyhour.com/
 - *Full Stack Radio* - http://www.fullstackradio.com
 - *JavaScript Air* - http://javascriptair.com
 - *Javascript Jabber* - http://javascriptjabber.com
