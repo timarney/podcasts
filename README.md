@@ -27,6 +27,7 @@
 
 
 ## Interview Heavy
+- *Away From The Keyboard* - https://soundcloud.com/awayfromthekeyboardpodcast
 - *Hello World Podcast* - https://wildermuth.com/hwpod
 - *Product People* - http://productpeople.tv
 - *ShopTalk* - http://shoptalkshow.com
