@@ -37,6 +37,8 @@
 - *The Non Breaking Space Show* - http://goodstuff.fm/nbsp
 - *The Web Ahead* - http://5by5.tv/webahead
 - *Three Devs and a Maybe* - http://threedevsandamaybe.com
+- *Request For Commits (RFC)* - https://changelog.com/rfc/ 
+- *Versioning* - https://soundcloud.com/versioningshow
 
 
 ## Front-End
