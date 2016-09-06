@@ -39,6 +39,7 @@
 - *Three Devs and a Maybe* - http://threedevsandamaybe.com
 - *Request For Commits (RFC)* - https://changelog.com/rfc/ 
 - *Versioning* - https://soundcloud.com/versioningshow
+- *This Developing Story* - https://developingstory.netlify.com/
 
 
 ## Front-End
