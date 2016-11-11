@@ -23,7 +23,9 @@
 
 ## PHP / WordPress
 - *Apply Filters* - http://applyfilters.fm
-- Post Status - https://poststatus.com/
+- *PHP Roundtable* - https://www.phproundtable.com
+- *Plugin Architect* - http://pluginarchitect.com
+- *Post Status* - https://poststatus.com
 
 
 ## Interview Heavy
