@@ -26,6 +26,8 @@
 - *PHP Roundtable* - https://www.phproundtable.com
 - *Plugin Architect* - http://pluginarchitect.com
 - *Post Status* - https://poststatus.com
+- *North Meets South Web Podcast* - http://www.northmeetssouth.audio/
+- *Laravel News* - https://laravel-news.com/category/podcast
 
 
 ## Interview Heavy
