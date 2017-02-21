@@ -69,3 +69,6 @@
 - *Modern Web* - http://www.modern-web.org
 - *The Development Hell Podcast* - http://devhell.info
 - *The Web Platform Podcast* - http://thewebplatform.libsyn.com
+
+## Mobile Dev
+- *React Native Radio * https://devchat.tv/react-native-radio
