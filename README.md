@@ -28,8 +28,10 @@
 - *Plugin Architect* - http://pluginarchitect.com
 - *Post Status* - https://poststatus.com
 - *North Meets South Web Podcast* - http://www.northmeetssouth.audio/
+- *Office Hours* - http://officehours.fm
 - *Laravel News* - https://laravel-news.com/category/podcast
 - *That Podcast* - https://thatpodcast.io
+- *WP Innovator* - http://wpinnovator.libsyn.com/podcast
 
 
 ## Interview Heavy
@@ -46,6 +48,7 @@
 - *Request For Commits (RFC)* - https://changelog.com/rfc/ 
 - *Versioning* - https://soundcloud.com/versioningshow
 - *This Developing Story* - https://developingstory.netlify.com/
+- *Master Mind* - http://mastermind.fm
 
 
 ## Front-End
@@ -63,9 +66,11 @@
 - *CTRL+CLICK CAST* - http://ctrlclickcast.com
 - *Boagworld* - https://boagworld.com
 - *Dads In Development* - http://www.dadsindev.com
+- *DevelopersHangout* - http://www.developershangout.io
 - *Does Not Compute* - http://spec.fm/podcasts/does-not-compute
 - *FreelanceFAQ* - http://www.freelancefaq.com
 - *Giant Robots Smashing Into Other Giant Robots* - http://giantrobots.fm
+- *MegaMaker* - https://megamaker.co
 - *Modern Web* - http://www.modern-web.org
 - *The Development Hell Podcast* - http://devhell.info
 - *The Web Platform Podcast* - http://thewebplatform.libsyn.com
