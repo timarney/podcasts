@@ -15,7 +15,7 @@
 
 
 ## Engineering
-- *Syntax - Tasty Web Development Treats* - https://syntax.fm (coming soon) [iTunes](https://itunes.apple.com/ca/podcast/syntax-tasty-web-development-treats/id1253186678?mt=2&__s=yivp9q1pj3pkw2ekfrpa)
+- *Syntax - Tasty Web Development Treats* - https://syntax.fm
 - *Code Podcast* - https://soundcloud.com/podcastcode
 - *NashDev* - http://nashdevcast.com
 - *Soft Skills Engineering*
