@@ -78,3 +78,7 @@
 
 ## Mobile Dev
 - *React Native Radio* - https://devchat.tv/react-native-radio
+
+## Python
+- *Talk Python To Me* - https://talkpython.fm/
+- *Python Bytes* - https://pythonbytes.fm/
