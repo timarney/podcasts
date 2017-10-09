@@ -17,6 +17,7 @@
 ## Engineering
 - *Syntax - Tasty Web Development Treats* - https://syntax.fm
 - *Code Podcast* - https://soundcloud.com/podcastcode
+- *Testing Podcast* - https://testingpodcast.com/
 - *NashDev* - http://nashdevcast.com
 - *Soft Skills Engineering*
     - http://feeds.feedburner.com/SoftSkillsEngineering
