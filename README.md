@@ -83,3 +83,6 @@
 ## Python
 - *Talk Python To Me* - https://talkpython.fm/
 - *Python Bytes* - https://pythonbytes.fm/
+
+## GraphQL
+- *GraphQL Radio* - https://graphqlradio.com/
