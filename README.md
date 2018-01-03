@@ -1,39 +1,19 @@
 ## JavaScript
 - *JAMstack Radio* - http://www.heavybit.com/library/podcasts/jamstack-radio
-- *Career.js* - http://careerjs.com/
 - *FiveJS* - https://fivejs.codeschool.com
-- *Front End Happy Hour* - http://frontendhappyhour.com/
+- *Front End Happy Hour* - http://frontendhappyhour.com
 - *Full Stack Radio* - http://www.fullstackradio.com
-- *JavaScript Air* - http://javascriptair.com
 - *Javascript Jabber* - http://javascriptjabber.com
-- *Mostly Node* - http://mostlynode.com
-- *NodeUp* - http://nodeup.com/
-- *React30* - https://react30.com
-- *React Podcast* - http://reactpodcast.com
-- *Reactive* - http://reactive.audio
-- *SpaceDojo* - https://show.spacedojo.com
+- *NodeUp* - http://nodeup.com
+- *JavaScript Air* - http://javascriptair.com (not active but great episodes)
+- *React30* - https://react30.com (not active but great episodes)
 
 
 ## Engineering
 - *Syntax - Tasty Web Development Treats* - https://syntax.fm
-- *Code Podcast* - https://soundcloud.com/podcastcode
-- *Testing Podcast* - https://testingpodcast.com/
-- *NashDev* - http://nashdevcast.com
-- *Soft Skills Engineering*
-    - http://feeds.feedburner.com/SoftSkillsEngineering
-    - https://itunes.apple.com/us/podcast/soft-skills-engineeringlink/id1091341048?mt=2
-
-
-## PHP / WordPress
-- *Apply Filters* - http://applyfilters.fm
-- *PHP Roundtable* - https://www.phproundtable.com
-- *Plugin Architect* - http://pluginarchitect.com
-- *Post Status* - https://poststatus.com
-- *North Meets South Web Podcast* - http://www.northmeetssouth.audio/
-- *Office Hours* - http://officehours.fm
-- *Laravel News* - https://laravel-news.com/category/podcast
-- *That Podcast* - https://thatpodcast.io
-- *WP Innovator* - http://wpinnovator.libsyn.com/podcast
+- *Testing Podcast* - https://testingpodcast.com
+- *Soft Skills Engineering* - https://softskills.audio/
+- *Code Podcast* - https://soundcloud.com/podcastcode (not active but great episodes)
 
 
 ## Interview Heavy
@@ -81,8 +61,21 @@
 - *React Native Radio* - https://devchat.tv/react-native-radio
 
 ## Python
-- *Talk Python To Me* - https://talkpython.fm/
-- *Python Bytes* - https://pythonbytes.fm/
+- *Talk Python To Me* - https://talkpython.fm
+- *Python Bytes* - https://pythonbytes.fm
 
 ## GraphQL
-- *GraphQL Radio* - https://graphqlradio.com/
+- *GraphQL Radio* - https://graphqlradio.com
+
+
+## PHP / WordPress
+
+- *PHP Roundtable* - https://www.phproundtable.com
+- *Plugin Architect* - http://pluginarchitect.com
+- *Post Status* - https://poststatus.com
+- *North Meets South Web Podcast* - http://www.northmeetssouth.audio/
+- *Office Hours* - http://officehours.fm
+- *Laravel News* - https://laravel-news.com/category/podcast
+- *That Podcast* - https://thatpodcast.io
+- *WP Innovator* - http://wpinnovator.libsyn.com/podcast
+- *Apply Filters* - http://applyfilters.fm  (not active but great episodes)
