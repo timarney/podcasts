@@ -17,6 +17,8 @@
 
 
 ## Interview Heavy
+
+- *Pursuit Podcast* - http://hyperurl.co/zukdmh
 - *Away From The Keyboard* - https://soundcloud.com/awayfromthekeyboardpodcast
 - *Hello World Podcast* - https://wildermuth.com/hwpod
 - *Product People* - http://productpeople.tv
