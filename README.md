@@ -5,6 +5,10 @@
 - *Full Stack Radio* - http://www.fullstackradio.com
 - *Javascript Jabber* - http://javascriptjabber.com
 - *NodeUp* - http://nodeup.com
+- *The Console Log* - http://theconsolelog.com
+
+<hr>
+
 - *JavaScript Air* - http://javascriptair.com (not active but great episodes)
 - *React30* - https://react30.com (not active but great episodes)
 
