@@ -7,6 +7,10 @@
 - *NodeUp* - http://nodeup.com
 - *The Console Log* - http://theconsolelog.com
 
+## React
+- *The React Podcast* - https://www.spreaker.com/show/the-react-podcast
+- *React Round Up* - https://devchat.tv/react-round-up
+
 <hr>
 
 - *JavaScript Air* - http://javascriptair.com (not active but great episodes)
