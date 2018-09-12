@@ -6,6 +6,7 @@
 - *Javascript Jabber* - http://javascriptjabber.com
 - *NodeUp* - http://nodeup.com
 - *The Console Log* - http://theconsolelog.com
+- *Real Talk JavaScript* - https://realtalkjavascript.simplecast.fm
 
 ## React
 - *The React Podcast* - https://www.spreaker.com/show/the-react-podcast
