@@ -69,6 +69,7 @@
 - *The Web Platform Podcast* - http://thewebplatform.libsyn.com
 
 ## Mobile Dev
+- *More Than Just Code* - http://mtjc.fm/
 - *React Native Radio* - https://devchat.tv/react-native-radio
 
 ## Python
