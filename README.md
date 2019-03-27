@@ -9,7 +9,7 @@
 - *Real Talk JavaScript* - https://realtalkjavascript.simplecast.fm
 
 ## React
-- *The React Podcast* - https://www.spreaker.com/show/the-react-podcast
+- *React Podcast* - https://reactpodcast.com
 - *React Round Up* - https://devchat.tv/react-round-up
 
 <hr>
