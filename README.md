@@ -1,10 +1,8 @@
 ## JavaScript
 - *JAMstack Radio* - http://www.heavybit.com/library/podcasts/jamstack-radio
-- *FiveJS* - https://fivejs.codeschool.com
 - *Front End Happy Hour* - http://frontendhappyhour.com
 - *Full Stack Radio* - http://www.fullstackradio.com
 - *Javascript Jabber* - http://javascriptjabber.com
-- *NodeUp* - http://nodeup.com
 - *The Console Log* - http://theconsolelog.com
 - *Real Talk JavaScript* - https://realtalkjavascript.simplecast.fm
 
