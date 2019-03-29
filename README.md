@@ -15,11 +15,11 @@
 - *JavaScript Air* - http://javascriptair.com (not active but great episodes)
 - *React30* - https://react30.com (not active but great episodes)
 
-
 ## Engineering
 - *Syntax - Tasty Web Development Treats* - https://syntax.fm
 - *Testing Podcast* - https://testingpodcast.com
-- *Soft Skills Engineering* - https://softskills.audio/
+- *Soft Skills Engineering* - https://softskills.audio
+- *THE UNDEFINED* - https://undefined.fm
 - *Code Podcast* - https://soundcloud.com/podcastcode (not active but great episodes)
 
 ## Interview Heavy
