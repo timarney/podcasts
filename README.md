@@ -5,6 +5,7 @@
 - *Javascript Jabber* - http://javascriptjabber.com
 - *The Console Log* - http://theconsolelog.com
 - *Real Talk JavaScript* - https://realtalkjavascript.simplecast.fm
+- *The Vanilla JavaScript Podcast* - https://vanillajspodcast.com
 
 ## React
 - *React Podcast* - https://reactpodcast.com
