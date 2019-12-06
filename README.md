@@ -22,6 +22,7 @@
 - *Soft Skills Engineering* - https://softskills.audio
 - *THE UNDEFINED* - https://undefined.fm
 - *Code Podcast* - https://soundcloud.com/podcastcode (not active but great episodes)
+- *Screaming in the Cloud* - https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/
 
 ## Interview Heavy
 - *How I Built It* -  https://howibuilt.it
