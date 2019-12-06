@@ -33,6 +33,7 @@
 - *The Changelog* - http://5by5.tv/changelog
 - *Three Devs and a Maybe* - http://threedevsandamaybe.com
 - *Master Mind* - http://mastermind.fm
+- *Masters of Scale* - https://mastersofscale.com/
 
 ## Front-End
 - *Toolsday* - http://toolsday.io
