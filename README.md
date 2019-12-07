@@ -24,6 +24,7 @@
 
 ## Engineering
 - *Syntax - Tasty Web Development Treats* - https://syntax.fm
+- *Command Line Heroes* - https://www.redhat.com/en/command-line-heroes
 - *Testing Podcast* - https://testingpodcast.com
 - *Soft Skills Engineering* - https://softskills.audio
 - *THE UNDEFINED* - https://undefined.fm
