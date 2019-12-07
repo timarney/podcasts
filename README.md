@@ -7,6 +7,9 @@
 - *Real Talk JavaScript* - https://realtalkjavascript.simplecast.fm
 - *The Vanilla JavaScript Podcast* - https://vanillajspodcast.com
 
+<hr>
+- *JavaScript Air* - http://javascriptair.com (not active but great episodes)
+
 # React Native
 - "React Native Radio" - https://devchat.tv/react-native-radio/
 
@@ -16,7 +19,6 @@
 
 <hr>
 
-- *JavaScript Air* - http://javascriptair.com (not active but great episodes)
 - *React30* - https://react30.com (not active but great episodes)
 
 ## Engineering
@@ -26,6 +28,7 @@
 - *THE UNDEFINED* - https://undefined.fm
 - *Code Podcast* - https://soundcloud.com/podcastcode (not active but great episodes)
 - *Screaming in the Cloud* - https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/
+- *3 Minutes with Kent* - https://kcd.im/3-mins
 
 ## Interview Heavy
 - *How I Built It* -  https://howibuilt.it
@@ -38,6 +41,7 @@
 - *Three Devs and a Maybe* - http://threedevsandamaybe.com
 - *Master Mind* - http://mastermind.fm
 - *Masters of Scale* - https://mastersofscale.com/
+- *Chats with Kent* - https://kentcdodds.com/podcast
 
 ## Front-End
 - *Toolsday* - http://toolsday.io
