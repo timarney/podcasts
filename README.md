@@ -68,6 +68,9 @@
 - *Talk Python To Me* - https://talkpython.fm
 - *Python Bytes* - https://pythonbytes.fm
 
+## Ruby
+- *Remote Ruby* - https://remoteruby.transistor.fm/
+
 ## PHP / WordPress
 - *Post Status* - https://poststatus.com
 - *North Meets South Web Podcast* - http://www.northmeetssouth.audio
