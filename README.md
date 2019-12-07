@@ -49,6 +49,7 @@
 ## Security & Performance
 - *Security Now* - https://twit.tv/shows/security-now
 - *the path to PERFORMANCE* - https://pathtoperf.com
+- "Darknet Diaries" - https://darknetdiaries.com/episode/
 
 ## Broad / Business / Workflow / Tech
 - *CTRL+CLICK CAST* - http://ctrlclickcast.com
