@@ -33,6 +33,7 @@
 - *Developer Tea* - https://developertea.simplecast.fm
 - *Codepen Radio* - https://blog.codepen.io
 - *3 Minutes with Kent* - https://kcd.im/3-mins
+- *The Laracasts Snippet* - https://laracasts.com/podcast
 
 ## Interview Heavy
 - *How I Built It* -  https://howibuilt.it
