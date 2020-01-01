@@ -36,6 +36,7 @@
 - *The Laracasts Snippet* - https://laracasts.com/podcast
 - *Programming Throwdown* - https://www.programmingthrowdown.com
 - *Peachtree Devs* - https://podcasts.apple.com/us/podcast/peachtree-devs/id1459035997
+- *Ladybug Podcast* https://ladybug.dev/
 
 ## Interview Heavy
 - *How I Built It* -  https://howibuilt.it
