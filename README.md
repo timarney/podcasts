@@ -7,10 +7,6 @@
 - *Real Talk JavaScript* - https://realtalkjavascript.simplecast.fm
 - *The Vanilla JavaScript Podcast* - https://vanillajspodcast.com
 
-<hr>
-
-- *JavaScript Air* - http://javascriptair.com (not active but great episodes)
-
 # React Native
 - "React Native Radio" - https://devchat.tv/react-native-radio/
 
