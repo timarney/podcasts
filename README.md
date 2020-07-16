@@ -33,6 +33,7 @@
 - *Programming Throwdown* - https://www.programmingthrowdown.com
 - *Peachtree Devs* - https://podcasts.apple.com/us/podcast/peachtree-devs/id1459035997
 - *Ladybug Podcast* https://ladybug.dev/
+- *Cynical Developer* - https://cynicaldeveloper.com/
 
 ## Interview Heavy
 - *How I Built It* -  https://howibuilt.it
@@ -65,10 +66,12 @@
 
 ## Mobile Dev
 - *More Than Just Code* - http://mtjc.fm
+- *Fragmented* - https://fragmentedpodcast.com/
 
 ## Python
 - *Talk Python To Me* - https://talkpython.fm
 - *Python Bytes* - https://pythonbytes.fm
+- *Test and Code* - https://testandcode.com/
 
 ## Ruby
 - *Remote Ruby* - https://remoteruby.transistor.fm/
